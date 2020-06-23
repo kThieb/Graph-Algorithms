@@ -3,7 +3,7 @@ import csv
 # This is the Deque implementation of the shortest path algorithm below is the commented code
 
 # Change the link to the input below to the file that you want to test and run the code. The result should appear in the console in a readable format
-input = 'input.csv'
+input = '../inputs/input_deque.csv'
 
 ####################################################
 

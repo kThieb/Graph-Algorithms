@@ -6,8 +6,8 @@ import copy
 
 
 # Change the link to the input below to the file that you want to test and
-# run the codse. The result should appear in the console in a readable format
-input = 'input.csv'
+# run the code. The result should appear in the console in a readable format
+input = '../inputs/input.csv'
 
 ####################################################
 
@@ -314,5 +314,5 @@ def print_prettier_output(result):
 
 
 
-result = successsive_shortest_paths("input.csv")
+result = successsive_shortest_paths(input)
 print_prettier_output(result)
