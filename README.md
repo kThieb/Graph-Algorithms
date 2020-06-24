@@ -16,3 +16,4 @@ The different algorithms implemented are:
 Other algorithm I would like to implement are:
 * Kruskal's algorithm for the Minimum Span Tree problem
 * Tarjan's algorithm for Strongly Connected Components
+* Floyd-Warshall algorithm
